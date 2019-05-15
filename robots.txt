@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eifainiev.kryobot.io/sitemap.xml
